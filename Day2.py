@@ -126,3 +126,5 @@ print(a.dot(b))
  '''
  
  
+a =np.random.randint(1,10,3)
+print(a)
